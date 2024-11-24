@@ -10,17 +10,17 @@ export default {
     }
   },
   methods: {
-    onSubmit(task) {
-      console.log(task)
-      if (!task.title){
+    onSubmit(e) {
+      e.preventDefault();
+      if (!this.title){
         alert("Please add a task");
         return;
       }
 
       const newTask = {
-        title: task.title,
-        day: task.day,
-        reminder: task.reminder,
+        title: this.title,
+        day: this.day,
+        reminder: this.reminder,
       }
 
       console.log(newTask);
