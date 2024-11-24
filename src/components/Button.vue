@@ -7,7 +7,7 @@ export default {
   },
   methods: {
     onClick() {
-      console.log("clicked me!")
+      this.$emit("on-button-click")
     }
   }
 }

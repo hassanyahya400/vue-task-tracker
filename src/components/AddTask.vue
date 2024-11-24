@@ -23,8 +23,6 @@ export default {
         reminder: this.reminder,
       }
 
-      console.log(newTask);
-
       this.title = "";
       this.day = "";
       this.reminder = false;

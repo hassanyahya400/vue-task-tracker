@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Meeting with the team",
+      "day": "November 25, 2024 09:00:00",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "title": "Doctor's appointment",
+      "day": "November 25, 2024 14:30:00",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "title": "Submit project report",
+      "day": "November 27, 2024 16:00:00",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "title": "Pick up dry cleaning",
+      "day": "November 28, 2024 11:00:00",
+      "reminder": false
+    },
+    {
+      "id": "6",
+      "title": "Call Mom",
+      "day": "November 28, 2024 18:00:00",
+      "reminder": true
+    },
+    {
+      "id": "7",
+      "title": "Prepare presentation for conference",
+      "day": "November 29, 2024 09:00:00",
+      "reminder": true
+    },
+    {
+      "id": "8",
+      "title": "Lunch with Sarah",
+      "day": "November 29, 2024 13:00:00",
+      "reminder": false
+    },
+    {
+      "id": "9",
+      "title": "Pay bills",
+      "day": "November 30, 2024 15:00:00",
+      "reminder": true
+    },
+    {
+      "id": "10",
+      "title": "Read new book",
+      "day": "December 1, 2024 20:00:00",
+      "reminder": false
+    }
+  ]
+}
